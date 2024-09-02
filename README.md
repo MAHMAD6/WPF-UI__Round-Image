@@ -10,6 +10,3 @@ Youtube Channel: [Click here to visit](https://www.youtube.com/@CodeCrunch.Offic
 
 
 My Github: [Click here to navigate](https://github.com/MAHMAD6)
-
-
-🔴 app requires bunifu and guna framework to be installed
